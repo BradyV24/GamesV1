@@ -1,0 +1,2 @@
+snake: 82
+tetris: 70498
